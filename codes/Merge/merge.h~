@@ -1,0 +1,8 @@
+#include<fstream>
+
+class Joiner
+{
+
+ public: void merge(char part1[50],char part2[50]);
+	 int openfile(char file[20]);	 
+};

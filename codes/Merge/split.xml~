@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<SplitInfo>
+	<Selection source="\secureshare\local\madhura" traverseSubFolders="yes">
+		<Filter wildcard="NULL">
+			<File>pic.JPG</File>
+			</Filter>
+		</Selection>
+	<StoragePaths>
+		<BaseCloudPath>/home/sanket/secureshare/cloud/</BaseCloudPath>
+		<BaseMobilePath>/home/sanket/secureshare/mobile/</BaseMobilePath>
+		<LocalPath>/home/sanket/secureshare/local/</LocalPath>
+	</StoragePaths>
+<BufferSize>1024</BufferSize>
+</SplitInfo>

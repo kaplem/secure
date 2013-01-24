@@ -1,0 +1,12 @@
+#ifndef __IWRITE_H
+#define __IWRITE_H
+#include<fstream>
+using namespace std;
+class IWrite
+{
+public:
+virtual void fileopen(char[])=0;
+virtual void filewrite(char[],int csize)=0;
+virtual void fileclose()=0;
+
+};
